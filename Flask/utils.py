@@ -1,374 +1,371 @@
 disease_dic = {
     'Apple___Apple_scab': """ <b>Crop</b>: Apple <br/>Disease: Apple Scab<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Apple scab overwinters primarily in fallen leaves and in the soil. Disease development is favored by wet, cool weather that generally occurs in spring and early summer.
-        <br/> 2. Fungal spores are carried by wind, rain or splashing water from the ground to flowers, leaves or fruit. During damp or rainy periods, newly opening apple leaves are extremely susceptible to infection. The longer the leaves remain wet, the more severe the infection will be. Apple scab spreads rapidly between 55-75 degrees Fahrenheit.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Choose resistant varieties when possible.
-        <br/>2. Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring
+        <br/>Nguyên nhân gây bệnh: 
+        <br/><br/> 1. Bệnh ghẻ táo chủ yếu trú đông qua lá rụng và trong đất. Bệnh phát triển thuận lợi khi thời tiết ẩm ướt, mát mẻ thường xảy ra vào mùa xuân và đầu mùa hè
+        <br/> 2. Bào tử nấm được gió, mưa hoặc nước bắn từ mặt đất mang đến hoa, lá hoặc quả. Trong thời kỳ ẩm ướt hoặc mưa, lá táo mới mở rất dễ bị nhiễm trùng. Lá bị ướt càng lâu, nhiễm trùng sẽ càng nghiêm trọng. Bệnh vảy táo lây lan nhanh chóng trong khoảng 55-75 độ F.
         
-        <br/>3. Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.
-        <br/>4. Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chọn giống kháng khi có thể
+        <br/>2.Cào dưới gốc cây và phá hủy các lá bị nhiễm bệnh để giảm số lượng bào tử nấm có sẵn để bắt đầu lại chu kỳ bệnh vào mùa xuân tới
+        <br/>3. Tưới nước vào buổi tối hoặc sáng sớm (tránh tưới từ trên cao) để lá có thời gian khô trước khi nhiễm trùng có thể xảy ra.
+        <br/>4. Trải một lớp phân hữu cơ dày 3 đến 6 inch dưới gốc cây, tránh xa thân cây, để che phủ đất và ngăn sự phát tán của bào tử nấm """,
 
     'Apple___Black_rot': """ <b>Crop</b>: Apple <br/>Disease: Black Rot<br/>
-        <br/> Cause of disease:
-        <br/><br/>Black rot is caused by the fungus Diplodia seriata (syn Botryosphaeria obtusa).The fungus can infect dead tissue as well as living trunks, branches, leaves and fruits. In wet weather, spores are released from these infections and spread by wind or splashing water. The fungus infects leaves and fruit through natural openings or minor wounds.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Prune out dead or diseased branches.
-        <br/>2. Prune out dead or diseased branches.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/>Bệnh thối đen do nấm Diplodia seriata (syn Botryosphaeria obtuse) gây ra. Loại nấm này có thể lây nhiễm các mô chết và thân, cành, lá và quả còn sống. Trong thời tiết ẩm ướt, các bào tử được giải phóng khỏi các bệnh nhiễm trùng này và lây lan nhờ gió hoặc nước bắn tung tóe. Nấm xâm nhiễm lá và quả thông qua các lỗ hở tự nhiên hoặc vết thương nhỏ.
         
-        <br/>3. Remove infected plant material from the area.
-        <br/>4. Remove infected plant material from the area.
-        <br/>5. Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Cắt tỉa những cành chết hoặc bị bệnh.
+        <br/>2. Cắt tỉa những cành chết hoặc bị bệnh
+        <br/>3. Loại bỏ vật liệu thực vật bị nhiễm bệnh khỏi khu vực.
+        <br/>4. Loại bỏ vật liệu thực vật bị nhiễm bệnh khỏi khu vực.
+        <br/>5. Đảm bảo loại bỏ gốc của bất kỳ cây táo nào bạn đã chặt. Gốc cây chết có thể là nguồn bào tử.""",
 
     'Apple___Cedar_apple_rust': """ <b>Crop</b>: Apple <br/>Disease: Cedar Apple Rust<br/>
-        <br/> Cause of disease:
-        <br/><br/>Cedar apple rust (Gymnosporangium juniperi-virginianae) is a fungal disease that depends on two species to spread and develop. It spends a portion of its two-year life cycle on Eastern red cedar (Juniperus virginiana). The pathogen’s spores develop in late fall on the juniper as a reddish brown gall on young branches of the trees.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Since the juniper galls are the source of the spores that infect the apple trees, cutting them is a sound strategy if there aren’t too many of them.
-        <br/>2. While the spores can travel for miles, most of the ones that could infect your tree are within a few hundred feet.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/>Bệnh gỉ sắt trên cây táo (Gymnosporangium juniperi-virginianae) là một bệnh nấm phụ thuộc vào hai loài để lây lan và phát triển. Nó dành một phần trong vòng đời hai năm của mình trên cây tuyết tùng đỏ phương Đông (Juniperus virginiana). Các bào tử của mầm bệnh phát triển vào cuối mùa thu trên cây bách xù dưới dạng túi mật màu nâu đỏ trên cành non của cây.
         
-        <br/>3. The best way to do this is to prune the branches about 4-6 inches below the galls.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Vì các chồi của cây bách xù là nguồn gốc của các bào tử lây nhiễm sang cây táo, nên việc cắt bỏ chúng là một chiến lược hợp lý nếu không có quá nhiều
+        <br/>2. Mặc dù các bào tử có thể di chuyển hàng dặm, nhưng hầu hết các bào tử có thể lây nhiễm cho cây của bạn đều ở trong phạm vi vài trăm feet.
+        <br/>3. Cách tốt nhất để làm điều này là tỉa các cành khoảng 4-6 inch bên dưới các vết sưng.""",
 
 
 
     'Apple___healthy': """ <b>Crop</b>: Apple <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
 
 
     'Blueberry___healthy': """ <b>Crop</b>: Blueberry <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên """,
 
 
 
 
     'Cherry_(including_sour)___Powdery_mildew': """ <b>Crop</b>: Cherry <br/>Disease: Powdery Mildew<br/>
-        <br/> Cause of disease:
-        <br/><br/>Podosphaera clandestina, a fungus that most commonly infects young, expanding leaves but can also be found on buds, fruit and fruit stems. It overwinters as small, round, black bodies (chasmothecia) on dead leaves, on the orchard floor, or in tree crotches. Colonies produce more (asexual) spores generally around shuck fall and continue the disease cycle.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Remove and destroy sucker shoots.
-        <br/>2. Keep irrigation water off developing fruit and leaves by using irrigation that does not wet the leaves. Also, keep irrigation sets as short as possible.
-        
-        <br/>3. Follow cultural practices that promote good air circulation, such as pruning, and moderate shoot growth through judicious nitrogen management.""",
-
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/>Podosphaera clandestina, một loại nấm thường lây nhiễm trên lá non, đang mở rộng nhưng cũng có thể được tìm thấy trên chồi, quả và thân quả. Nó trú đông dưới dạng những thân nhỏ, tròn, đen (chasmothecia) trên những chiếc lá chết, trên sàn vườn cây ăn quả hoặc trong các hốc cây. Các khuẩn lạc tạo ra nhiều bào tử (vô tính) hơn nói chung xung quanh vỏ trấu rụng và tiếp tục chu kỳ bệnh.
+       
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Loại bỏ và tiêu diệt chồi non.
+        <br/>2. Giữ nước tưới ngăn sự phát triển của trái và lá bằng cách sử dụng nước tưới không làm ướt lá. Ngoài ra, giữ bộ tưới càng ngắn càng tốt.
+        <br/>3. Thực hiện theo các biện pháp văn hóa thúc đẩy lưu thông không khí tốt, chẳng hạn như cắt tỉa và tăng trưởng chồi vừa phải thông qua quản lý nitơ hợp lý.""",
+    
     'Cherry_(including_sour)___healthy': """ <b>Crop</b>: Cherry <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot': """ <b>Crop</b>: Corn <br/>Disease: Grey Leaf Spot<br/>
-        <br/> Cause of disease:
+        <br/> Nguyên nhân gây bệnh:
         <br/><br/>Gray leaf spot lesions on corn leaves hinder photosynthetic activity, reducing carbohydrates allocated towards grain fill. The extent to which gray leaf spot damages crop yields can be estimated based on the extent to which leaves are infected relative to grainfill. Damage can be more severe when developing lesions progress past the ear leaf around pollination time.	Because a decrease in functioning leaf area limits photosynthates dedicated towards grainfill, the plant might mobilize more carbohydrates from the stalk to fill kernels.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. In order to best prevent and manage corn grey leaf spot, the overall approach is to reduce the rate of disease growth and expansion.
-        <br/>2. This is done by limiting the amount of secondary disease cycles and protecting leaf area from damage until after corn grain formation.
-        
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Để ngăn ngừa và quản lý tốt nhất bệnh đốm lá ngô, phương pháp tổng thể là giảm tốc độ phát triển và mở rộng của bệnh.
+        <br/>2. Điều này được thực hiện bằng cách hạn chế số lượng chu kỳ bệnh thứ cấp và bảo vệ diện tích lá khỏi bị hư hại cho đến sau khi hình thành hạt ngô.
         <br/>3. High risk factors for grey leaf spot in corn: <br/>
-                    a.	Susceptible hybrid
-                    b.	Continuous corn
-                    c.	Late planting date
-                    d.	Minimum tillage systems
-                    e.	Field history of severe disease
-                    f.	Early disease activity (before tasseling)
-                    g.	Irrigation
-                    h.	Favorable weather forecast for disease.""",
+                    a. Lai nhạy cảm
+                    b. ngô liên tục
+                    c. Ngày trồng muộn
+                    đ. Hệ thống làm đất tối thiểu
+                    đ. Tiền sử bệnh nặng
+                    f. Hoạt động sớm của bệnh (trước khi trỗ bông)
+                    g. Thủy lợi
+                    h. Dự báo thời tiết thuận lợi cho dịch bệnh.""",
 
 
 
 
     'Corn_(maize)___Common_rust_': """ <b>Crop</b>: Corn(maize) <br/>Disease: Common Rust<br/>
-        <br/> Cause of disease:
-        <br/><br/>Common corn rust, caused by the fungus Puccinia sorghi, is the most frequently occurring of the two primary rust diseases of corn in the U.S., but it rarely causes significant yield losses in Ohio field (dent) corn. Occasionally field corn, particularly in the southern half of the state, does become severely affected when weather conditions favor the development and spread of rust fungus
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Although rust is frequently found on corn in Ohio, very rarely has there been a need for fungicide applications. This is due to the fact that there are highly resistant field corn hybrids available and most possess some degree of resistance.
-        <br/>2. However, popcorn and sweet corn can be quite susceptible. In seasons where considerable rust is present on the lower leaves prior to silking and the weather is unseasonably cool and wet, an early fungicide application may be necessary for effective disease control. Numerous fungicides are available for rust control. """,
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/>Bệnh gỉ sắt thông thường ở ngô, do nấm Puccinia sorghi gây ra, là bệnh thường xảy ra nhất trong số hai bệnh gỉ sắt chính ở ngô ở Hoa Kỳ, nhưng hiếm khi gây thiệt hại năng suất đáng kể ở ngô (vết lõm) trên cánh đồng Ohio. Đôi khi cánh đồng ngô, đặc biệt là ở nửa phía nam của bang, bị ảnh hưởng nghiêm trọng khi điều kiện thời tiết thuận lợi cho sự phát triển và lây lan của nấm gỉ sắt
+        
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Mặc dù bệnh gỉ sắt thường được tìm thấy trên ngô ở Ohio, nhưng rất hiếm khi có nhu cầu sử dụng thuốc diệt nấm. Điều này là do thực tế là có sẵn các giống ngô lai có tính kháng cao và hầu hết đều có một số mức độ kháng.
+        <br/>2. Tuy nhiên, bỏng ngô và ngô ngọt có thể khá dễ nhiễm. Vào những mùa mà bệnh gỉ sắt xuất hiện nhiều ở các lá phía dưới trước khi ra hoa và thời tiết mát mẻ và ẩm ướt trái mùa, có thể cần phải phun thuốc diệt nấm sớm để kiểm soát bệnh hiệu quả. Nhiều loại thuốc diệt nấm có sẵn để kiểm soát rỉ sét. """,
 
 
     'Corn_(maize)___Northern_Leaf_Blight': """ <b>Crop</b>: Corn(maize) <br/>Disease: Northern Leaf Blight
         <br/>
-        <br/> Cause of disease:
-        <br/><br/>Northern corn leaf blight (NCLB) is a foliar disease of corn (maize) caused by Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica. With its characteristic cigar-shaped lesions, this disease can cause significant yield loss in susceptible corn hybrids.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Management of NCLB can be achieved primarily by using hybrids with resistance, but because resistance may not be complete or may fail, it is advantageous to utilize an integrated approach with different cropping practices and fungicides.
-        <br/>2. Scouting fields and monitoring local conditions is vital to control this disease.""",
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/>Bệnh bạc lá ngô phía Bắc (NCLB) là một bệnh trên lá ngô (ngô) do Exserohilum turcicum, dạng biến dạng của ascomycete Setosphaeria turcica gây ra. Với các vết bệnh hình điếu xì gà đặc trưng, bệnh này có thể làm giảm năng suất đáng kể ở các giống ngô lai mẫn cảm
+        
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Việc quản lý NCLB có thể đạt được chủ yếu bằng cách sử dụng các giống lai có tính kháng, nhưng vì tính kháng có thể không hoàn toàn hoặc có thể thất bại, nên sử dụng phương pháp tích hợp với các biện pháp trồng trọt và thuốc diệt nấm khác nhau sẽ có lợi.
+        <br/>2. Tìm kiếm các cánh đồng và theo dõi các điều kiện địa phương là rất quan trọng để kiểm soát căn bệnh này.""",
 
 
     'Grape___Black_rot': """ <b>Crop</b>: Grape <br/>Disease: Black Rot<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. The black rot fungus overwinters in canes, tendrils, and leaves on the grape vine and on the ground. Mummified berries on the ground or those that are still clinging to the vines become the major infection source the following spring.
-        <br/> 2. During rain, microscopic spores (ascospores) are shot out of numerous, black fruiting bodies (perithecia) and are carried by air currents to young, expanding leaves. In the presence of moisture, these spores germinate in 36 to 48 hours and eventually penetrate the leaves and fruit stems. 
-        <br/> 3. The infection becomes visible after 8 to 25 days. When the weather is wet, spores can be released the entire spring and summer providing continuous infection.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Space vines properly and choose a planting site where the vines will be exposed to full sun and good air circulation. Keep the vines off the ground and insure they are properly tied, limiting the amount of time the vines remain wet thus reducing infection.
-        <br/>2. Keep the fruit planting and surrounding areas free of weeds and tall grass. This practice will promote lower relative humidity and rapid drying of vines and thereby limit fungal infection.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Nấm thối đen trú đông trong thân, tua và lá trên cây nho và trên mặt đất. Những quả xác ướp trên mặt đất hoặc những quả vẫn còn bám trên dây leo trở thành nguồn lây nhiễm chính vào mùa xuân năm sau.
+        <br/> 2. Trong mưa, các bào tử cực nhỏ (ascospores) được bắn ra từ vô số quả thể màu đen (perithecia) và được các luồng không khí mang đến các lá non đang mở rộng. Khi có độ ẩm, các bào tử này nảy mầm trong 36 đến 48 giờ và cuối cùng xâm nhập vào lá và thân quả.
+        <br/> 3. Nhiễm trùng trở nên rõ ràng sau 8 đến 25 ngày. Khi thời tiết ẩm ướt, các bào tử có thể được giải phóng trong suốt mùa xuân và mùa hè, gây ra sự lây nhiễm liên tục.
         
-        <br/>3. Use protective fungicide sprays. Pesticides registered to protect the developing new growth include copper, captan, ferbam, mancozeb, maneb, triadimefon, and ziram. Important spraying times are as new shoots are 2 to 4 inches long, and again when they are 10 to 15 inches long, just before bloom, just after bloom, and when the fruit has set.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Không gian dây leo hợp lý và chọn một vị trí trồng nơi dây leo sẽ được tiếp xúc với ánh nắng mặt trời đầy đủ và lưu thông không khí tốt. Giữ dây leo khỏi mặt đất và đảm bảo chúng được buộc đúng cách, hạn chế thời gian dây leo bị ướt, do đó giảm nhiễm trùng.
+        <br/>2. Giữ cho khu vực trồng cây ăn quả và các khu vực xung quanh không có cỏ dại và cỏ cao. Thực hành này sẽ thúc đẩy độ ẩm tương đối thấp hơn và làm khô nhanh cây nho và do đó hạn chế nhiễm nấm.
+        <br/>3. Sử dụng thuốc xịt bảo vệ nấm. Thuốc trừ sâu được đăng ký để bảo vệ sự phát triển mới bao gồm đồng, captan, ferbam, mancozeb, maneb, triadimefon và ziram. Thời điểm phun quan trọng là khi các chồi mới dài từ 2 đến 4 inch và một lần nữa khi chúng dài từ 10 đến 15 inch, ngay trước khi nở hoa, ngay sau khi nở hoa và khi quả đã đậu.""",
 
     'Corn_(maize)___healthy': """ <b>Crop</b>: Corn(maize) <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Grape___Esca_(Black_Measles)': """ <b>Crop</b>: Grape <br/>Disease: Black Measles<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Black Measles is caused by a complex of fungi that includes several species of Phaeoacremonium, primarily by P. aleophilum (currently known by the name of its sexual stage, Togninia minima), and by Phaeomoniella chlamydospora.
-        <br/> 2. The overwintering structures that produce spores (perithecia or pycnidia, depending on the pathogen) are embedded in diseased woody parts of vines. The overwintering structures that produce spores (perithecia or pycnidia, depending on the pathogen) are embedded in diseased woody parts of vines.
-        <br/> 3. During fall to spring rainfall, spores are released and wounds made by dormant pruning provide infection sites.
-        <br/> 4. Wounds may remain susceptible to infection for several weeks after pruning with susceptibility declining over time.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Post-infection practices (sanitation and vine surgery) for use in diseased, mature vineyards are not as effective and are far more costly than adopting preventative practices (delayed pruning, double pruning, and applications of pruning-wound protectants) in young vineyards. 
-        <br/>2. Sanitation and vine surgery may help maintain yields. In spring, look for dead spurs or for stunted shoots. Later in summer, when there is a reduced chance of rainfall, practice good sanitation by cutting off these cankered portions of the vine beyond the canker, to where wood appears healthy. Then remove diseased, woody debris from the vineyard and destroy it.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh sởi đen gây ra bởi một phức hợp nấm bao gồm một số loài Phaeoacremonium, chủ yếu là do P. aleophilum (hiện được biết đến với tên giai đoạn sinh dục của nó là Togninia minima) và do Phaeomoniella chlamydospore.
+        <br/> 2. Các cấu trúc đan xen tạo ra các bào tử (perithecia hoặc pycnidia, tùy thuộc vào mầm bệnh) được nhúng vào các phần gỗ bị bệnh của dây leo. Các cấu trúc đan xen tạo ra các bào tử (perithecia hoặc pycnidia, tùy thuộc vào mầm bệnh) được nhúng vào các phần gỗ bị bệnh của dây leo.
+        <br/> 3. Trong thời gian mưa từ mùa thu đến mùa xuân, các bào tử được giải phóng và các vết thương do cắt tỉa không hoạt động tạo ra các vị trí lây nhiễm.
+        <br/> 4. Các vết thương có thể vẫn dễ bị nhiễm trùng trong vài tuần sau khi cắt tỉa với mức độ nhạy cảm giảm dần theo thời gian.
         
-        <br/>3. The fungicides labeled as pruning-wound protectants, consider using alternative materials, such as a wound sealant with 5 percent boric acid in acrylic paint (Tech-Gro B-Lock), which is effective against Eutypa dieback and Esca, or an essential oil (Safecoat VitiSeal).""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Các biện pháp xử lý sau lây nhiễm (vệ sinh và phẫu thuật cây nho) để áp dụng cho các vườn nho trưởng thành, bị bệnh không hiệu quả và tốn kém hơn nhiều so với việc áp dụng các biện pháp phòng ngừa (cắt tỉa chậm, tỉa cành đôi và áp dụng các chất bảo vệ vết thương khi cắt tỉa) ở các vườn nho non.
+        <br/>2. Vệ sinh và phẫu thuật cây nho có thể giúp duy trì sản lượng. Vào mùa xuân, hãy tìm những chiếc cựa chết hoặc những chồi còi cọc. Vào cuối mùa hè, khi khả năng có lượng mưa giảm đi, hãy thực hành vệ sinh tốt bằng cách cắt bỏ những phần bị thối này của cây nho bên ngoài vết thối, ở những nơi gỗ có vẻ khỏe mạnh. Sau đó loại bỏ các mảnh vụn gỗ bị bệnh khỏi vườn nho và tiêu hủy nó.
+        <br/>3. Các loại thuốc diệt nấm được dán nhãn là chất bảo vệ vết thương do cắt tỉa, hãy cân nhắc sử dụng các vật liệu thay thế, chẳng hạn như chất trám vết thương bằng axit boric 5% trong sơn acrylic (Tech-Gro B-Lock), có hiệu quả chống lại sự chết chóc của Eutypa và Esca, hoặc một loại tinh dầu ( Safecoat VitiSeal).""",
 
     'Grape___Leaf_blight_(Isariopsis_Leaf_Spot)': """ <b>Crop</b>: Grape <br/>Disease: Leaf Blight<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Apple scab overwinters primarily in fallen leaves and in the soil. Disease development is favored by wet, cool weather that generally occurs in spring and early summer.
-        <br/> 2. Fungal spores are carried by wind, rain or splashing water from the ground to flowers, leaves or fruit. During damp or rainy periods, newly opening apple leaves are extremely susceptible to infection. The longer the leaves remain wet, the more severe the infection will be. Apple scab spreads rapidly between 55-75 degrees Fahrenheit.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Choose resistant varieties when possible.
-        <br/>2. Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh ghẻ táo chủ yếu trú đông qua lá rụng và trong đất. Bệnh phát triển thuận lợi khi thời tiết ẩm ướt, mát mẻ thường xảy ra vào mùa xuân và đầu mùa hè.
+        <br/> 2. Bào tử nấm được gió, mưa hoặc nước bắn từ mặt đất mang đến hoa, lá hoặc quả. Trong thời kỳ ẩm ướt hoặc mưa, lá táo mới mở rất dễ bị nhiễm trùng. Lá bị ướt càng lâu, nhiễm trùng sẽ càng nghiêm trọng. Bệnh vảy táo lây lan nhanh chóng trong khoảng 55-75 độ F.
         
-        <br/>3. Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.
-        <br/>4. Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.""",
-
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chọn giống kháng khi có thể.
+        <br/>2. Cào dưới gốc cây và phá hủy các lá bị nhiễm bệnh để giảm số lượng bào tử nấm có sẵn để bắt đầu lại chu kỳ bệnh vào mùa xuân tới
+        <br/>3. Tưới nước vào buổi tối hoặc sáng sớm (tránh tưới từ trên cao) để lá có thời gian khô trước khi nhiễm trùng có thể xảy ra.
+        <br/>4. Trải một lớp phân hữu cơ dày 3 đến 6 inch dưới gốc cây, tránh xa thân cây, để che phủ đất và ngăn sự phát tán của bào tử nấm.""",
+    
     'Grape___healthy': """ <b>Crop</b>: Grape <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Corn_(maize)___healthy': """ <b>Crop</b>: Corn(maize) <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Grape___Leaf_blight_(Isariopsis_Leaf_Spot)': """<b> Crop</b> : Grape <br/> Disease: Leaf Spot""",
-
+        
 
     'Orange___Haunglongbing_(Citrus_greening)': """ <b>Crop</b>: Orange <br/>Disease: Citrus Greening<br/>
-        <br/> Cause of disease:
+        <br/> Nguyên nhân gây bệnh:
         <br/><br/>  Huanglongbing (HLB) or citrus greening is the most severe citrus disease, currently devastating the citrus industry worldwide. The presumed causal bacterial agent Candidatus Liberibacter spp. affects tree health as well as fruit development, ripening and quality of citrus fruits and juice.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. In regions where disease incidence is low, the most common practices are avoiding the spread of infection by removal of symptomatic trees, protecting grove edges through intensive monitoring, use of pesticides, and biological control of the vector ACP.
-        <br/>2. According to Singerman and Useche (2016), CHMAs coordinate insecticide application to control the ACP spreading across area-wide neighboring commercial citrus groves as part of a plan to address the HLB disease.
         
-        <br/>3. In addition to foliar nutritional sprays, plant growth regulators were tested, unsuccessfully, to reduce HLB-associated fruit drop (Albrigo and Stover, 2015).""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Ở những vùng có tỷ lệ mắc bệnh thấp, các biện pháp phổ biến nhất là tránh lây lan bệnh bằng cách loại bỏ các cây có triệu chứng, bảo vệ các rìa rừng thông qua giám sát chặt chẽ, sử dụng thuốc trừ sâu và kiểm soát sinh học véc tơ ACP.
+        <br/>2. Theo Singerman và Useche (2016), các CHMA phối hợp sử dụng thuốc trừ sâu để kiểm soát ACP lan rộng khắp các vườn cam quýt thương mại lân cận trên toàn khu vực như một phần của kế hoạch giải quyết bệnh HLB.
+
+        <br/>3. Ngoài việc phun dinh dưỡng qua lá, các chất điều hòa sinh trưởng thực vật đã được thử nghiệm nhưng không thành công trong việc giảm rụng quả liên quan đến HLB (Albrigo và Stover, 2015).""",
 
 
 
     'Peach___Bacterial_spot': """ <b>Crop</b>: Peach <br/>Disease: Bacterial Spot<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. The disease is caused by four species of Xanthomonas (X. euvesicatoria, X. gardneri, X. perforans, and X. vesicatoria). In North Carolina, X. perforans is the predominant species associated with bacterial spot on tomato and X. euvesicatoria is the predominant species associated with the disease on pepper.
-        <br/> 2. All four bacteria are strictly aerobic, gram-negative rods with a long whip-like flagellum (tail) that allows them to move in water, which allows them to invade wet plant tissue and cause infection.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. The most effective management strategy is the use of pathogen-free certified seeds and disease-free transplants to prevent the introduction of the pathogen into greenhouses and field production areas. Inspect plants very carefully and reject infected transplants- including your own!
-        <br/>2. In transplant production greenhouses, minimize overwatering and handling of seedlings when they are wet.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh do 4 loài Xanthomonas (X. euvesicatoria, X. gardneri, X. perforans, và X. vesicatoria) gây ra. Ở Bắc Carolina, X. perforans là loài chiếm ưu thế liên quan đến bệnh đốm vi khuẩn trên cà chua và X. euvesicatoria là loài chiếm ưu thế liên quan đến bệnh trên hồ tiêu.
+        <br/> 2. Cả bốn loại vi khuẩn này đều là những vi khuẩn gram âm, hiếu khí nghiêm ngặt với một roi (đuôi) giống roi dài cho phép chúng di chuyển trong nước, cho phép chúng xâm nhập vào mô thực vật ẩm ướt và gây nhiễm trùng.
         
-        <br/>3. Trays, benches, tools, and greenhouse structures should be washed and sanitized between seedlings crops.
-        <br/>4. Do not spray, tie, harvest, or handle wet plants as that can spread the disease.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chiến lược quản lý hiệu quả nhất là sử dụng hạt giống được chứng nhận sạch bệnh và cấy ghép sạch bệnh để ngăn chặn sự xâm nhập của mầm bệnh vào nhà kính và các khu vực sản xuất đồng ruộng. Kiểm tra cây thật cẩn thận và loại bỏ những cây cấy ghép bị nhiễm bệnh - kể cả cây của bạn!
+        <br/>2. Trong nhà kính sản xuất cấy ghép, hạn chế tối đa việc tưới nước quá nhiều và xử lý cây con khi chúng bị ướt.
+        <br/>3. Các khay, băng ghế, dụng cụ và cấu trúc nhà kính phải được rửa sạch và vệ sinh giữa các vụ cây con.
+        <br/>4. Không phun thuốc, buộc, thu hoạch hoặc xử lý cây ướt vì có thể làm lây lan bệnh.""",
 
 
     'Pepper,_bell___Bacterial_spot': """ <b>Crop</b>: Pepper <br/>Disease: Bacterial Spot<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Bacterial spot is caused by several species of gram-negative bacteria in the genus Xanthomonas.
-        <br/> 2. In culture, these bacteria produce yellow, mucoid colonies. A "mass" of bacteria can be observed oozing from a lesion by making a cross-sectional cut through a leaf lesion, placing the tissue in a droplet of water, placing a cover-slip over the sample, and examining it with a microscope (~200X)..
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh đốm do một số loài vi khuẩn gram âm thuộc chi Xanthomonas gây ra.
+        <br/> 2. Trong môi trường nuôi cấy, những vi khuẩn này tạo khuẩn lạc màu vàng, nhầy. Có thể quan sát thấy một "khối lượng" vi khuẩn rỉ ra từ vết bệnh bằng cách rạch một mặt cắt ngang qua vết bệnh trên lá, đặt mô vào một giọt nước, đặt một tấm phủ lên mẫu và kiểm tra bằng kính hiển vi ( ~200X)..
         
         
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. The primary management strategy of bacterial spot begins with use of certified pathogen-free seed and disease-free transplants.
-        <br/>2. The bacteria do not survive well once host material has decayed, so crop rotation is recommended. Once the bacteria are introduced into a field or greenhouse, the disease is very difficult to control.
-        
-        <br/>3. Pepper plants are routinely sprayed with copper-containing bactericides to maintain a "protective" cover on the foliage and fruit.""",
-
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chiến lược quản lý chính của đốm vi khuẩn bắt đầu bằng việc sử dụng hạt giống sạch mầm bệnh được chứng nhận và cấy ghép sạch bệnh.
+        <br/>2. Vi khuẩn không tồn tại tốt khi vật chủ đã bị phân hủy, vì vậy nên luân canh cây trồng. Một khi vi khuẩn được đưa vào ruộng hoặc nhà kính, bệnh rất khó kiểm soát.
+        <br/>3. Cây tiêu thường xuyên được phun thuốc diệt khuẩn có chứa đồng để duy trì lớp vỏ "bảo vệ" trên tán lá và quả.""",
+    
     'Peach___healthy': """ <b>Crop</b>: Peach <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
     'Pepper,_bell___healthy': """ <b>Crop</b>: Pepper <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Potato___healthy': """ <b>Crop</b>: Potato <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
     'Raspberry___healthy': """ <b>Crop</b>: Raspberry <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Soybean___healthy': """ <b>Crop</b>: Soyabean <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
     'Strawberry___healthy': """ <b>Crop</b>: Strawberry <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
     'Tomato___healthy': """ <b>Crop</b>: Tomato <br/>Disease: No disease<br/>
-        <br/><br/> Don't worry. Your crop is healthy. Keep it up !!!""",
+        <br/><br/> Đừng lo. Cây trồng của bạn khỏe mạnh. Giữ nó lên!!!""",
 
 
     'Potato___Early_blight': """ <b>Crop</b>: Potato <br/>Disease: Early Blight<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Early blight (EB) is a disease of potato caused by the fungus Alternaria solani. It is found wherever potatoes are grown. 
-        <br/> 2. The disease primarily affects leaves and stems, but under favorable weather conditions, and if left uncontrolled, can result in considerable defoliation and enhance the chance for tuber infection. Premature defoliation may lead to considerable reduction in yield.
-        <br/> 3. Primary infection is difficult to predict since EB is less dependent upon specific weather conditions than late blight.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Plant only diseasefree, certified seed. 
-        <br/>2. Follow a complete and regular foliar fungicide spray program.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh mốc sương (EB) là bệnh hại khoai tây do nấm Alternaria solani gây ra. Nó được tìm thấy ở bất cứ nơi nào khoai tây được trồng.
+        <br/> 2. Bệnh chủ yếu ảnh hưởng đến lá và thân, nhưng trong điều kiện thời tiết thuận lợi và nếu không được kiểm soát, bệnh có thể dẫn đến hiện tượng rụng lá đáng kể và tăng khả năng nhiễm bệnh ở củ. Hiện tượng rụng lá sớm có thể dẫn đến giảm năng suất đáng kể.
+        <br/> 3. Nhiễm trùng ban đầu khó dự đoán vì EB ít phụ thuộc vào điều kiện thời tiết cụ thể hơn bệnh mốc sương.
         
-        <br/>3. Practice good killing techniques to lessen tuber infections.
-        <br/>4. Allow tubers to mature before digging, dig when vines are dry, not wet, and avoid excessive wounding of potatoes during harvesting and handling.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chỉ trồng hạt giống sạch bệnh, xác nhận.
+        <br/>2. Thực hiện theo một chương trình phun thuốc diệt nấm trên lá đầy đủ và thường xuyên.
+        <br/>3. Thực hành các kỹ thuật tiêu diệt tốt để giảm nhiễm trùng củ.
+        <br/>4. Để củ chín mới đào, đào khi dây khô ráo, không ẩm ướt, tránh làm khoai tây bị thương quá nặng trong quá trình thu hoạch và xử lý.""",
 
 
     'Potato___Late_blight': """ <b>Crop</b>: Potato <br/>Disease: Late Blight<br/>
         Late blight is a potentially devastating disease of potato, infecting leaves, stems and fruits of plants. The disease spreads quickly in fields and can result in total crop failure if untreated. Late blight of potato was responsible for the Irish potato famine of the late 1840s.              
-        <br/> Cause of disease:
-        <br/><br/> 1. Late blight is caused by the oomycete Phytophthora infestans. Oomycetes are fungus-like organisms also called water molds, but they are not true fungi.
-        <br/> 2. There are many different strains of P. infestans. These are called clonal lineages and designated by a number code (i.e. US-23). Many clonal lineages affect both tomato and potato, but some lineages are specific to one host or the other.
-        <br/> 3. The host range is typically limited to potato and tomato, but hairy nightshade (Solanum physalifolium) is a closely related weed that can readily become infected and may contribute to disease spread. Under ideal conditions, such as a greenhouse, petunia also may become infected.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh mốc sương do nấm mốc Phytophthora infestans gây ra. Oomycetes là những sinh vật giống như nấm còn được gọi là nấm mốc nước, nhưng chúng không phải là nấm thực sự.
+        <br/> 2. Có nhiều chủng P. infestans khác nhau. Chúng được gọi là dòng vô tính và được chỉ định bởi một mã số (tức là US-23). Nhiều dòng vô tính ảnh hưởng đến cả cà chua và khoai tây, nhưng một số dòng đặc trưng cho cây chủ này hay cây chủ khác.
+        <br/> 3. Phạm vi ký chủ thường giới hạn ở khoai tây và cà chua, nhưng cây cà chua có lông (Solanum physalifolium) là một loại cỏ dại có họ hàng gần, có thể dễ dàng bị nhiễm bệnh và có thể góp phần làm lây lan bệnh. Trong điều kiện lý tưởng, chẳng hạn như nhà kính, cây dã yên thảo cũng có thể bị nhiễm bệnh.        
         
-        
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Seed infection is unlikely on commercially prepared tomato seed or on saved seed that has been thoroughly dried.
-        <br/>2. Inspect tomato transplants for late blight symptoms prior to purchase and/or planting, as tomato transplants shipped from southern regions may be infected
-        
-        <br/>3. If infection is found in only a few plants within a field, infected plants should be removed, disced-under, killed with herbicide or flame-killed to avoid spreading through the entire field.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Nhiễm trùng hạt không có khả năng xảy ra trên hạt giống cà chua đã chuẩn bị thương mại hoặc trên hạt giống đã được làm khô hoàn toàn.
+        <br/>2. Kiểm tra các cây cà chua cấy để phát hiện các triệu chứng bệnh sương mai trước khi mua và/hoặc trồng, vì cà chua cấy chuyển từ các vùng phía Nam có thể bị nhiễm bệnh
+        <br/>3. Nếu nhiễm bệnh chỉ được tìm thấy ở một vài cây trong một cánh đồng, những cây bị nhiễm bệnh nên được loại bỏ, rạch thành từng luống, giết bằng thuốc diệt cỏ hoặc đốt lửa để tránh lây lan ra toàn bộ cánh đồng.""",
 
 
     'Squash___Powdery_mildew': """ <b>Crop</b>: Squash <br/>Disease: Powdery mildew<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Powdery mildew infections favor humid conditions with temperatures around 68-81° F
-        <br/> 2. In warm, dry conditions, new spores form and easily spread the disease.
-        <br/> 3. Symptoms of powdery mildew first appear mid to late summer in Minnesota.  The older leaves are more susceptible and powdery mildew will infect them first.
-        <br/> 4. Wind blows spores produced in leaf spots to infect other leaves.
-        <br/> 5. Under favorable conditions, powdery mildew can spread very rapidly, often covering all of the leaves.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Apply fertilizer based on soil test results. Avoid over-applying nitrogen.
-        <br/>2. Provide good air movement around plants through proper spacing, staking of plants and weed control.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh phấn trắng thích điều kiện ẩm ướt với nhiệt độ khoảng 68-81° F
+        <br/> 2. Trong điều kiện ấm, khô, bào tử mới hình thành và dễ lây lan bệnh.
+        <br/> 3. Các triệu chứng của bệnh phấn trắng lần đầu tiên xuất hiện từ giữa đến cuối mùa hè ở Minnesota. Những chiếc lá già dễ bị nhiễm bệnh hơn và bệnh phấn trắng sẽ lây nhiễm chúng trước.
+        <br/> 4. Gió thổi các bào tử sinh ra trong đốm lá lây nhiễm sang các lá khác.
+        <br/> 5. Trong điều kiện thuận lợi, bệnh phấn trắng có thể lây lan rất nhanh, thường bao phủ cả mặt lá.
         
-        <br/>3. Once a week, examine five mature leaves for powdery mildew infection. In large plantings, repeat at 10 different locations in the field.
-        <br/>4. If susceptible varieties are growing in an area where powdery mildew has resulted in yield loss in the past, fungicide may be necessary.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Bón phân dựa trên kết quả kiểm tra đất. Tránh bón quá nhiều đạm.
+        <br/>2. Cung cấp sự lưu thông không khí tốt xung quanh cây trồng thông qua khoảng cách thích hợp, khoanh vùng cây trồng và kiểm soát cỏ dại.
+        <br/>3. Mỗi tuần một lần, kiểm tra năm lá trưởng thành để phát hiện bệnh phấn trắng. Trong các đồn điền lớn, lặp lại ở 10 địa điểm khác nhau trên cánh đồng.
+        <br/>4. Nếu các giống mẫn cảm đang phát triển ở khu vực trước đây bệnh phấn trắng đã dẫn đến giảm năng suất, thì có thể cần phải sử dụng thuốc diệt nấm.""",
 
 
     'Strawberry___Leaf_scorch': """ <b>Crop</b>: Strawberry <br/>Disease: Leaf Scorch<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Scorched strawberry leaves are caused by a fungal infection which affects the foliage of strawberry plantings. The fungus responsible is called Diplocarpon earliana.
-        <br/> 2. Strawberries with leaf scorch may first show signs of issue with the development of small purplish blemishes that occur on the topside of leaves.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Since this fungal pathogen over winters on the fallen leaves of infect plants, proper garden sanitation is key.
-        <br/>2. This includes the removal of infected garden debris from the strawberry patch, as well as the frequent establishment of new strawberry transplants.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Lá dâu tây bị cháy sém là do nhiễm nấm ảnh hưởng đến tán lá dâu tây. Loại nấm chịu trách nhiệm được gọi là Diplocarpon earliana.
+        <br/> 2. Những quả dâu tây bị cháy lá trước tiên có thể có dấu hiệu của vấn đề với sự phát triển của những đốm nhỏ màu tía xuất hiện ở mặt trên của lá        
         
-        <br/>3. The avoidance of waterlogged soil and frequent garden cleanup will help to reduce the likelihood of spread of this fungus.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Vì mầm bệnh nấm này qua mùa đông trên lá rụng của cây bị nhiễm bệnh, nên việc vệ sinh vườn đúng cách là điều quan trọng.
+        <br/>2. Điều này bao gồm việc loại bỏ các mảnh vụn vườn bị nhiễm bệnh khỏi miếng dâu tây, cũng như thường xuyên thiết lập các vụ cấy ghép dâu tây mới.
+        <br/>3. Việc tránh để đất bị úng nước và dọn dẹp vườn thường xuyên sẽ giúp giảm khả năng lây lan của loại nấm này.""",
 
 
 
     'Tomato___Bacterial_spot': """ <b>Crop</b>: Tomato <br/>Disease: Bacterial Spot<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. The disease is caused by four species of Xanthomonas (X. euvesicatoria, X. gardneri, X. perforans, and X. vesicatoria). In North Carolina, X. perforans is the predominant species associated with bacterial spot on tomato and X. euvesicatoria is the predominant species associated with the disease on pepper.
-        <br/> 2. All four bacteria are strictly aerobic, gram-negative rods with a long whip-like flagellum (tail) that allows them to move in water, which allows them to invade wet plant tissue and cause infection.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. The most effective management strategy is the use of pathogen-free certified seeds and disease-free transplants to prevent the introduction of the pathogen into greenhouses and field production areas. Inspect plants very carefully and reject infected transplants- including your own!
-        <br/>2. In transplant production greenhouses, minimize overwatering and handling of seedlings when they are wet.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh do 4 loài Xanthomonas (X. euvesicatoria, X. gardneri, X. perforans, X. vesicatoria) gây ra. Ở Bắc Carolina, X. perforans là loài chiếm ưu thế liên quan đến bệnh đốm vi khuẩn trên cà chua và X. euvesicatoria là loài chiếm ưu thế liên quan đến bệnh trên hồ tiêu.
+        <br/> 2. Cả bốn loại vi khuẩn đều là những vi khuẩn gram âm, hiếu khí hoàn toàn với một roi dài giống roi (đuôi) cho phép chúng di chuyển trong nước, cho phép chúng xâm nhập vào mô thực vật ẩm ướt và gây nhiễm trùng.        
         
-        <br/>3. Trays, benches, tools, and greenhouse structures should be washed and sanitized between seedlings crops.
-        <br/>4. Do not spray, tie, harvest, or handle wet plants as that can spread the disease""",
-
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chiến lược quản lý hiệu quả nhất là sử dụng hạt giống được chứng nhận sạch bệnh và cấy ghép sạch bệnh để ngăn chặn sự xâm nhập của mầm bệnh vào nhà kính và các khu vực sản xuất đồng ruộng. Kiểm tra cây thật cẩn thận và loại bỏ những cây cấy ghép bị nhiễm bệnh - kể cả cây của bạn!
+        <br/>2. Trong nhà kính sản xuất cấy ghép, hạn chế tối đa việc tưới nước quá nhiều và xử lý cây con khi chúng bị ướt.
+        <br/>3. Các khay, băng ghế, dụng cụ và cấu trúc nhà kính phải được rửa sạch và vệ sinh giữa các vụ cây con.
+        <br/>4. Không phun, buộc, thu hoạch, hoặc xử lý cây ướt vì có thể làm lây lan bệnh""",
 
 
     'Tomato___Early_blight': """ <b>Crop</b>: Tomato <br/>Disease: Early Blight<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Early blight can be caused by two different closely related fungi, Alternaria tomatophila and Alternaria solani.
-        <br/> 2. Alternaria tomatophila is more virulent on tomato than A. solani, so in regions where A. tomatophila is found, it is the primary cause of early blight on tomato. However, if A.tomatophila is absent, A.solani will cause early blight on tomato.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Use pathogen-free seed, or collect seed only from disease-free plants..
-        <br/>2. Rotate out of tomatoes and related crops for at least two years.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh bạc lá sớm có thể do hai loại nấm khác nhau có họ hàng gần gây ra là Alternariamatophila và Alternaria solani.
+        <br/> 2. Alternariamatophila có độc lực trên cà chua cao hơn A. solani, vì vậy ở những vùng có A.matophila, nó là nguyên nhân chính gây bệnh cháy lá sớm trên cà chua. Tuy nhiên, nếu không có A.tomatophila thì A.solani sẽ gây bệnh cháy lá sớm trên cây cà chua.
         
-        <br/>3. Control susceptible weeds such as black nightshade and hairy nightshade, and volunteer tomato plants throughout the rotation.
-        <br/>4. Fertilize properly to maintain vigorous plant growth. Particularly, do not over-fertilize with potassium and maintain adequate levels of both nitrogen and phosphorus.
-        <br/>5. Avoid working in plants when they are wet from rain, irrigation, or dew.
-        <br/>6. Use drip irrigation instead of overhead irrigation to keep foliage dry.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Sử dụng giống sạch bệnh hoặc chỉ lấy giống từ cây sạch bệnh.
+        <br/>2. Luân canh cà chua và các loại cây trồng liên quan trong ít nhất hai năm.
+        <br/>3. Kiểm soát các loại cỏ dại dễ nhiễm bệnh như cà chua đen và cà chua có lông, và các cây cà chua tình nguyện trong suốt quá trình luân canh.
+        <br/>4. Bón phân đúng cách để duy trì sự phát triển mạnh mẽ của cây. Đặc biệt không bón thừa kali và bón đủ đạm và lân cho cây.
+        <br/>5. Tránh làm việc trong nhà máy khi chúng bị ướt do mưa, nước tưới hoặc sương.
+        <br/>6. Sử dụng tưới nhỏ giọt thay vì tưới trên cao để giữ cho tán lá khô ráo.""",
 
 
 
     'Tomato___Late_blight': """ <b>Crop</b>: Tomato <br/>Disease: Late Blight<br/>
-        Late blight is a potentially devastating disease of tomato, infecting leaves, stems and fruits of plants. The disease spreads quickly in fields and can result in total crop failure if untreated.              
-        <br/> Cause of disease:
-        <br/><br/> 1. Late blight is caused by the oomycete Phytophthora infestans. Oomycetes are fungus-like organisms also called water molds, but they are not true fungi.
-        <br/> 2. There are many different strains of P. infestans. These are called clonal lineages and designated by a number code (i.e. US-23). Many clonal lineages affect both tomato and potato, but some lineages are specific to one host or the other.
-        <br/> 3. The host range is typically limited to potato and tomato, but hairy nightshade (Solanum physalifolium) is a closely related weed that can readily become infected and may contribute to disease spread. Under ideal conditions, such as a greenhouse, petunia also may become infected.""",
-
+        Bệnh mốc sương là một bệnh có khả năng tàn phá cà chua, lây nhiễm trên lá, thân và quả của cây. Bệnh lây lan nhanh chóng trên các cánh đồng và có thể dẫn đến mất mùa hoàn toàn nếu không được điều trị.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh mốc sương do nấm mốc Phytophthora infestans gây ra. Oomycetes là những sinh vật giống như nấm còn được gọi là nấm mốc nước, nhưng chúng không phải là nấm thực sự.
+        <br/> 2. Có nhiều chủng P. infestans khác nhau. Chúng được gọi là dòng vô tính và được chỉ định bởi một mã số (tức là US-23). Nhiều dòng vô tính ảnh hưởng đến cả cà chua và khoai tây, nhưng một số dòng đặc trưng cho cây chủ này hay cây chủ khác.
+        <br/> 3. Phạm vi ký chủ thường giới hạn ở khoai tây và cà chua, nhưng cây cà chua có lông (Solanum physalifolium) là một loại cỏ dại có họ hàng gần, có thể dễ dàng bị nhiễm bệnh và có thể góp phần làm lây lan bệnh. Trong điều kiện lý tưởng, chẳng hạn như trong nhà kính, cây dã yên thảo cũng có thể bị nhiễm bệnh.""",
 
 
     'Tomato___Leaf_Mold': """ <b>Crop</b>: Tomato <br/>Disease: Leaf Mold<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Leaf mold is caused by the fungus Passalora fulva (previously called Fulvia fulva or Cladosporium fulvum). It is not known to be pathogenic on any plant other than tomato.
-        <br/> 2. Leaf spots grow together and turn brown. Leaves wither and die but often remain attached to the plant.
-        <br/> 3. Fruit infections start as a smooth black irregular area on the stem end of the fruit. As the disease progresses, the infected area becomes sunken, dry and leathery.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Use drip irrigation and avoid watering foliage.
-        <br/>2. Space plants to provide good air movement between rows and individual plants.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Bệnh mốc lá do nấm Passalora fulva (trước đây gọi là Fulvia fulva hoặc Cladosporium fulvum) gây ra. Nó không được biết là gây bệnh trên bất kỳ loại cây nào khác ngoài cà chua.
+        <br/> 2. Các đốm lá mọc tập trung lại với nhau và chuyển sang màu nâu. Lá khô héo và chết nhưng thường vẫn còn dính vào cây.
+        <br/> 3. Nhiễm trùng trái cây bắt đầu như một khu vực không đều màu đen mịn ở đầu cuống của trái cây. Khi bệnh tiến triển, khu vực bị nhiễm bệnh trở nên lõm xuống, khô và sần sùi.
         
-        <br/>3. Stake, string or prune to increase airflow in and around the plant.
-        <br/>4. Sterilize stakes, ties, trellises etc. with 10 percent household bleach or commercial sanitizer.
-        <br/>5. Circulate air in greenhouses or tunnels with vents and fans and by rolling up high tunnel sides to reduce humidity around plants.
-        <br/>6. Keep night temperatures in greenhouses higher than outside temperatures to avoid dew formation on the foliage.
-        <br/>7. Remove crop residue at the end of the season. Burn it or bury it away from tomato production areas.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Sử dụng tưới nhỏ giọt và tránh tưới lá.
+        <br/>2. Khoảng cách giữa các cây để cung cấp sự lưu thông không khí tốt giữa các hàng và từng cây.
+        <br/>3. Cọc, xâu hoặc cắt tỉa để tăng luồng không khí trong và xung quanh nhà máy.
+        <br/>4. Khử trùng cọc, dây buộc, lưới mắt cáo, v.v. bằng 10 phần trăm thuốc tẩy gia dụng hoặc chất khử trùng thương mại.
+        <br/>5. Lưu thông không khí trong nhà kính hoặc đường hầm bằng lỗ thông hơi và quạt và bằng cách cuộn các mặt đường hầm cao lên để giảm độ ẩm xung quanh cây trồng.
+        <br/>6. Giữ nhiệt độ ban đêm trong nhà kính cao hơn nhiệt độ bên ngoài để tránh hình thành sương trên tán lá.
+        <br/>7. Loại bỏ tàn dư cây trồng vào cuối mùa. Đốt hoặc chôn cách xa khu vực sản xuất cà chua.""",
 
 
     'Tomato___Septoria_leaf_spot': """ <b>Crop</b>: Tomato <br/>Disease: Leaf Spot<br/>
-        <br/> Cause of disease:
-        <br/><br/> Septoria leaf spot is caused by a fungus, Septoria lycopersici. It is one of the most destructive diseases of tomato foliage and is particularly severe in areas where wet, humid weather persists for extended periods.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Remove diseased leaves.
-        <br/>2. Improve air circulation around the plants.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> Bệnh đốm lá Septoria do nấm Septoria lycopersici gây ra. Đây là một trong những bệnh phá hoại lá cà chua nghiêm trọng nhất và đặc biệt nghiêm trọng ở những vùng có thời tiết ẩm ướt kéo dài trong thời gian dài.
         
-        <br/>3. Mulch around the base of the plants
-        <br/>4. Do not use overhead watering.
-        <br/>5. Use fungicidal sprayes.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Loại bỏ lá bị bệnh.
+        <br/>2. Cải thiện lưu thông không khí xung quanh các nhà máy.
+        <br/>3. Che phủ xung quanh gốc cây
+        <br/>4. Không sử dụng tưới nước trên cao.
+        <br/>5. Sử dụng thuốc xịt diệt nấm.""",
 
 
 
     'Tomato___Spider_mites Two-spotted_spider_mite': """ <b>Crop</b>: Tomato <br/>Disease: Two-spotted spider mite<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. The two-spotted spider mite is the most common mite species that attacks vegetable and fruit crops.
-        <br/> 2. They have up to 20 generations per year and are favored by excess nitrogen and dry and dusty conditions.
-        <br/> 3. Outbreaks are often caused by the use of broad-spectrum insecticides which interfere with the numerous natural enemies that help to manage mite populations. 
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Avoid early season, broad-spectrum insecticide applications for other pests.
-        <br/>2. Do not over-fertilize
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Nhện hai chấm là loài ve phổ biến nhất tấn công cây rau và trái cây.
+        <br/> 2. Chúng có tới 20 thế hệ mỗi năm và được ưa chuộng bởi điều kiện dư thừa nitơ và khô và bụi.
+        <br/> 3. Các đợt bùng phát thường do việc sử dụng thuốc trừ sâu phổ rộng gây trở ngại cho nhiều kẻ thù tự nhiên giúp quản lý quần thể ve.
         
-        <br/>3. Overhead irrigation or prolonged periods of rain can help reduce populations.""",
+        
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Tránh phun thuốc trừ sâu sớm, phổ rộng cho các loài gây hại khác.
+        <br/>2. Không bón phân quá nhiều
+        <br/>3. Tưới tiêu trên cao hoặc thời gian mưa kéo dài có thể giúp giảm dân số.""",
 
 
     'Tomato___Target_Spo': """ <b>Crop</b>: Tomato <br/>Disease: Target Spot<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. The fungus causes plants to lose their leaves; it is a major disease. If infection occurs before the fruit has developed, yields are low.
-        <br/> 2. This is a common disease on tomato in Pacific island countries. The disease occurs in the screen house and in the field.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Remove a few branches from the lower part of the plants to allow better airflow at the base
-        <br/>2. Remove and burn the lower leaves as soon as the disease is seen, especially after the lower fruit trusses have been picked.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Nấm làm cây bị rụng lá; đó là một căn bệnh lớn. Nếu nhiễm trùng xảy ra trước khi quả phát triển, năng suất thấp.
+        <br/> 2. Đây là bệnh hại cà chua phổ biến ở các nước đảo Thái Bình Dương. Bệnh xảy ra trong nhà màn và ngoài đồng ruộng.
         
-        <br/>3. Keep plots free from weeds, as some may be hosts of the fungus.
-        <br/>4. Do not use overhead irrigation; otherwise, it will create conditions for spore production and infection.""",
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Loại bỏ một vài nhánh từ phần dưới của cây để luồng không khí tốt hơn ở gốc
+        <br/>2. Cắt bỏ và đốt các lá phía dưới ngay khi thấy bệnh, nhất là sau khi đã hái các giàn quả phía dưới.
+        <br/>3. Giữ cho các mảnh đất không có cỏ dại, vì một số có thể là vật chủ của nấm.
+        <br/>4. Không sử dụng tưới trên cao; nếu không sẽ tạo điều kiện cho bào tử sinh sôi và lây nhiễm.""",
 
 
     'Tomato___Tomato_Yellow_Leaf_Curl_Virus': """ <b>Crop</b>: Tomato <br/>Disease: Yellow Leaf Curl Virus<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. TYLCV is transmitted by the insect vector Bemisia tabaci in a persistent-circulative nonpropagative manner. The virus can be efficiently transmitted during the adult stages.
-        <br/> 2. This virus transmission has a short acquisition access period of 15–20 minutes, and latent period of 8–24 hours.
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Currently, the most effective treatments used to control the spread of TYLCV are insecticides and resistant crop varieties.
-        <br/>2. The effectiveness of insecticides is not optimal in tropical areas due to whitefly resistance against the insecticides; therefore, insecticides should be alternated or mixed to provide the most effective treatment against virus transmission.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. TYLCV được truyền bởi vec tơ côn trùng Bemisia tabaci theo cách không lan truyền tuần hoàn dai dẳng. Virus có thể lây truyền một cách hiệu quả trong giai đoạn trưởng thành.
+        <br/> 2. Sự lây truyền vi-rút này có thời gian truy cập thu nhận ngắn là 15–20 phút và thời gian tiềm ẩn là 8–24 giờ.
         
-        <br/>3. Other methods to control the spread of TYLCV include planting resistant/tolerant lines, crop rotation, and breeding for resistance of TYLCV. As with many other plant viruses, one of the most promising methods to control TYLCV is the production of transgenic tomato plants resistant to TYLCV.""",
-
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Hiện tại, phương pháp điều trị hiệu quả nhất được sử dụng để kiểm soát sự lây lan của TYLCV là thuốc trừ sâu và giống cây trồng kháng thuốc.
+        <br/>2. Hiệu quả của thuốc trừ sâu không phải là tối ưu ở các vùng nhiệt đới do ruồi trắng kháng thuốc trừ sâu; do đó, các loại thuốc diệt côn trùng nên được luân phiên hoặc trộn lẫn để mang lại hiệu quả điều trị cao nhất chống lại sự lây truyền vi rút.
+        <br/>3. Các phương pháp khác để kiểm soát sự lây lan của TYLCV bao gồm trồng các dòng kháng/chống chịu, luân canh cây trồng và nhân giống kháng TYLCV. Cũng như nhiều loại vi-rút thực vật khác, một trong những phương pháp hứa hẹn nhất để kiểm soát TYLCV là sản xuất cây cà chua chuyển gen kháng TYLCV.""",
 
 
 
     'Tomato___Tomato_mosaic_virus': """ <b>Crop</b>: Tomato <br/>Disease: Mosaic Virus<br/>
-        <br/> Cause of disease:
-        <br/><br/> 1. Tomato mosaic virus and tobacco mosaic virus can exist for two years in dry soil or leaf debris, but will only persist one month if soil is moist. The viruses can also survive in infected root debris in the soil for up to two years.
-        <br/> 2. Seed can be infected and pass the virus to the plant but the disease is usually introduced and spread primarily through human activity. The virus can easily spread between plants on workers' hands, tools, and clothes with normal activities such as plant tying, removing of suckers, and harvest 
-        <br/> 3. The virus can even survive the tobacco curing process, and can spread from cigarettes and other tobacco products to plant material handled by workers after a cigarette
-        <br/><br/> How to prevent/cure the disease <br/>
-        <br/>1. Purchase transplants only from reputable sources. Ask about the sanitation procedures they use to prevent disease.
-        <br/>2. Inspect transplants prior to purchase. Choose only transplants showing no clear symptoms.
+        <br/> Nguyên nhân gây bệnh:
+        <br/><br/> 1. Virus khảm cà chua và virus khảm thuốc lá có thể tồn tại hai năm trong đất khô hoặc mảnh vụn lá, nhưng sẽ chỉ tồn tại một tháng nếu đất ẩm. Vi-rút cũng có thể tồn tại trong các mảnh vụn rễ bị nhiễm bệnh trong đất tới hai năm.
+        <br/> 2. Hạt giống có thể bị nhiễm bệnh và truyền virut cho cây nhưng bệnh thường xâm nhập và lây lan chủ yếu thông qua hoạt động của con người. Virus có thể dễ dàng lây lan giữa các cây trên tay, dụng cụ và quần áo của công nhân với các hoạt động thông thường như buộc cây, rút chồi non và thu hoạch.
+        <br/> 3. Vi-rút thậm chí có thể tồn tại trong quá trình xử lý thuốc lá và có thể lây lan từ thuốc lá và các sản phẩm thuốc lá khác sang nguyên liệu thực vật do công nhân xử lý sau khi hút thuốc
         
-        <br/>3. Avoid planting in fields where tomato root debris is present, as the virus can survive long-term in roots.
-        <br/>4. Wash hands with soap and water before and during the handling of plants to reduce potential spread between plants."""
+        <br/><br/> Cách phòng/chữa bệnh <br/>
+        <br/>1. Chỉ mua cấy ghép từ các nguồn có uy tín. Hỏi về các quy trình vệ sinh mà họ sử dụng để ngăn ngừa bệnh tật.
+        <br/>2. Kiểm tra cấy ghép trước khi mua. Chỉ chọn cấy ghép không có triệu chứng rõ ràng.
+        <br/>3. Tránh trồng trên những ruộng có mảnh vụn rễ cà chua vì virus có thể tồn tại lâu dài trong rễ.
+        <br/>4. Rửa tay bằng xà phòng và nước trước và trong khi xử lý thực vật để giảm khả năng lây lan giữa các thực vật."""
 }
